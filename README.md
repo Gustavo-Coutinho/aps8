@@ -22,14 +22,14 @@ A aplicação consiste em um sistema que integra os seguintes serviços:
 O projeto está organizado da seguinte forma:
 
 hotel_environment_management/
-├── app.py
-├── webservices/
-├── init.py
-├── routes.py
-├── presence_monitor.py
-├── thermostat_control.py
-├── smart_shower_control.py
-├── programmable_outlet_control.py
+    app.py
+    webservices/
+    init.py
+    routes.py
+    presence_monitor.py
+    thermostat_control.py
+    smart_shower_control.py
+    programmable_outlet_control.py
 
 
 ## Como Executar
